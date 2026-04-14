@@ -23,3 +23,5 @@ print("Привет,", name)
 name = "suck"
 print("Привет,", name)
 
+Nikita = input()
+print("Я пидор и", Nikita)
